@@ -47,7 +47,7 @@ public class post_pre {
         a += 10;// compound assignment operator
         // a =10+a;
         a *= 10; // compound assignment operator
-        a /= 10;
+        a /= 10; //compound assignment operator
         System.out.println(a);
 
     }
